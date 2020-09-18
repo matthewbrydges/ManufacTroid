@@ -14,3 +14,5 @@ Well eventually. This is the start of software I've wanted to write for a long t
 ## Inspiration
 This project is inspired by working in a machine shop and asking about common struggles. I basically want to have Machinery's Handbook entirely encompassed in a program form. That book is incredibly thorough, and one day I would like this software to be that as well.
 
+## Development
+This is most likely going to be programmed in Python, but I may look to other languages for speed and functionality as necessary. If anybody has similar aspirations maybe we can work together. Contact me and we can talk about it :)
